@@ -1,0 +1,13 @@
+.list {
+  background-color: grey; /*this changes the background colour of the body*/
+}
+
+.form {
+  font-size: 25px;  /*this makes the font-size much bigger on the page*/
+}
+
+body {
+	/*this provides a background colour*/
+	background-color: lightgrey;
+  text-align: center;
+}
